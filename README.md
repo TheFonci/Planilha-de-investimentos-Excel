@@ -1,4 +1,4 @@
-<img width="529" height="100" alt="image" src="https://github.com/user-attachments/assets/f4e22e97-bda4-4b11-a910-9cc8ace021c3" /># Planilha-de-investimentos-Excel
+
 Um app de investimentos basico criado em planilhas do Excel.
 Quanto Investir por mês?
 Por Quantos anos?
